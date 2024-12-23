@@ -1,0 +1,26 @@
+= Awesome Psion
+
+An opinionated list of awesome Psion-related projects.
+
+== Tools
+
+=== EPOC16
+
+* EDisAsm
+
+== Games
+
+=== EPOC16
+
+=== EPOC32
+
+=== Cross-Platform
+
+== Emulation
+
+== Software Development
+
+=== For EPOC16
+
+* CTRAN
+
